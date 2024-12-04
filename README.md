@@ -1,6 +1,4 @@
 ### Malena Milani 💻
-***
-Seu texto já está ótimo, mas posso fazer alguns ajustes para melhorar a fluidez e a clareza. Veja como ficou:
 
 Sobre Mim 👋
 
