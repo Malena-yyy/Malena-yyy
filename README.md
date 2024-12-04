@@ -4,7 +4,7 @@ Sobre Mim 👋
 
 Olá! Meu nome é Malena, estou no segundo ano do ensino médio e sou apaixonada por matemática. Recentemente, comecei a explorar o mundo da programação e estou encantada com as possibilidades que ele oferece.
 
-Tenho experiência em desenvolvimento de pacotes Python, criação de jogos simples e simulações. Atualmente, estou ganhando mais experiência no frontend, desenvolvendo projetos com HTML e CSS. Adoro aprender continuamente, enfrentar desafios técnicos e aprimorar minhas habilidades a cada dia.
+Tenho experiência em desenvolvimento de pacotes Python, criação de jogos simples e simulações. Atualmente, estou ganhando mais experiência no frontend, desenvolvendo projetos com HTML, CSS e Tailwind. Adoro aprender continuamente, enfrentar desafios técnicos e aprimorar minhas habilidades a cada dia.
 
 🌟 Motivação:
 Acredito que a persistência e o esforço são os pilares para alcançar resultados sólidos. Para mim, cada projeto é uma nova oportunidade de aprender, evoluir e me aproximar dos meus objetivos.
@@ -20,6 +20,7 @@ Acredito que a persistência e o esforço são os pilares para alcançar resulta
 [![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 [![Blog](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
